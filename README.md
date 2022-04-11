@@ -4,12 +4,14 @@
 ![Dbeaver](https://img.shields.io/badge/Dbeaver-22.0.2-orange?style=for-the-badge)
 
 
-# Curso Dbt
+# Cursos oficiales Dbt™ 
 
 ### **Url de los cursos**: https://courses.getdbt.com/collections
-### **Postgres**: https://postgresapp.com/
-### **Orden de los cursos**:
-    1. dbt Fundamentals (Curso, test, certificado)
+### **PostgreSQL**: https://postgresapp.com/
+### **Dbt™  Cli**: https://docs.getdbt.com/dbt-cli/install/overview
+### **Documentación**: https://docs.getdbt.com/docs/introduction
+### **Orden**:
+    1. dbt™ Fundamentals (Curso, test, certificado)
     2. Jinja, Macros, Packages
     3. Advanced Materializations
     4. Analyses and Seeds
