@@ -10,7 +10,22 @@
 ### **PostgreSQL**: https://postgresapp.com/
 ### **Dbt™  Cli**: https://docs.getdbt.com/dbt-cli/install/overview
 ### **Documentación**: https://docs.getdbt.com/docs/introduction
-### **Orden**:
+### **Configurar perfil**: https://docs.getdbt.com/dbt-cli/configure-your-profile
+
+    analitycs:
+    outputs:
+
+        dev:
+        type: postgres
+        threads: 1
+        host: localhost
+        port: 5432
+        user: postgres
+        pass: ''
+        dbname: raw
+        schema: jaffle_shop
+
+### **Orden para seguir los cursos**:
     1. dbt™ Fundamentals (Curso, test, certificado)
     2. Jinja, Macros, Packages
     3. Advanced Materializations
