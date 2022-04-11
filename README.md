@@ -6,12 +6,13 @@
 
 # Cursos oficiales Dbt™ 
 
-### **Url de los cursos**: https://courses.getdbt.com/collections
-### **PostgreSQL**: https://postgresapp.com/
-### **Dbt™  Cli**: https://docs.getdbt.com/dbt-cli/install/overview
-### **Documentación**: https://docs.getdbt.com/docs/introduction
-### **Configurar perfil**: https://docs.getdbt.com/dbt-cli/configure-your-profile
-
+### **Url de los cursos**: [Enlace](https://courses.getdbt.com/collections)
+### **PostgreSQL**: [Enlace](https://postgresapp.com/)
+### **Dbt™  Cli**: [Enlace](https://docs.getdbt.com/dbt-cli/install/overview)
+### **Documentación**: [Enlace](https://docs.getdbt.com/docs/introduction)
+### **Configurar perfil**: [Enlace](https://docs.getdbt.com/dbt-cli/configure-your-profile)
+<br>
+    
     analitycs:
     outputs:
 
@@ -26,9 +27,13 @@
         schema: jaffle_shop
 
 ### **Orden para seguir los cursos**:
+<br>
+    
     1. dbt™ Fundamentals (Curso, test, certificado)
     2. Jinja, Macros, Packages
     3. Advanced Materializations
     4. Analyses and Seeds
     5. Refactoring SQL for Modularity
+
 ### **Cetificado fundamentals**: Sin limite de intentos
+### **Verificar mi insignia**: [Enlace](https://www.credential.net/9d7c5bb5-734e-4fa7-8f9d-1427fb3b6dff#gs.wfnuxh)
